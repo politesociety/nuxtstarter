@@ -11,6 +11,6 @@ export default defineNuxtConfig({
     preview: {
       api: 'https://api.nuxt.studio'
     }
-  }
+  },
   compatibilityDate: '2024-04-03',
 })

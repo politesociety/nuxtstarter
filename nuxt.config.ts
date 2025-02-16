@@ -7,5 +7,10 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
+  content: {
+    preview: {
+      api: 'https://api.nuxt.studio'
+    }
+  }
   compatibilityDate: '2024-04-03',
 })
